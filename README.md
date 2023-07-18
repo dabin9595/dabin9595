@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=javascript&logoColor=#F7DF1E"/></a>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=javascript&logoColor=#F7DF1E"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabin9595&show_icons=true&theme=radical)
