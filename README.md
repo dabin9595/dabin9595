@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabin9595&show_icons=true&theme=radical)
