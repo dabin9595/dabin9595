@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabin9595&show_icons=true&theme=radical)
+
